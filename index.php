@@ -50,7 +50,14 @@
 
 
     </header>
-    <main>Monas chinas
+    <div class="conatiner">
+      <div class="row">
+        <div class="col-lg-12">
+          Hola bienvenidos 
+        </div>
+      </div>
+    </div>
+    <main>
       <div class="container">
         <div class="row">
           <div class="col-md-8">
