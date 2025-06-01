@@ -23,7 +23,14 @@
       <!-- place navbar here -->
     </header>
     <main>Monas chinas
-      <img src="https://darkostore.com/wp-content/uploads/2022/07/Template-preventa.jpg" alt="2B figura H">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <img src="https://darkostore.com/wp-content/uploads/2022/07/Template-preventa.jpg" alt="2B figura H">
+          </div>
+        </div>
+      </div>
+      
     </main>
     <footer>
        <div class="container">
