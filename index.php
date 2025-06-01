@@ -53,8 +53,12 @@
     <main>Monas chinas
       <div class="container">
         <div class="row">
-          <div class="col-md-12">
+          <div class="col-md-8">
             <img src="https://darkostore.com/wp-content/uploads/2022/07/Template-preventa.jpg" alt="2B figura H">
+
+          </div>
+          <div class="col-md-4">
+            <img src="https://otakuya.es/cdn/shop/files/figura-hentai-original-character-_18.jpg?v=1734373823" alt="">
           </div>
         </div>
       </div>
