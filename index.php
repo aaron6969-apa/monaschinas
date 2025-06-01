@@ -71,21 +71,49 @@
       </div>
       
     </main>
-    <footer>
-       <div class="container">
-       <div class="raw">
-       <div class="col-lg-12">
-        pie
-       </div>
-      <!-- place footer here -->
-    </footer>
-    <div class="container">
-    <div class="raw">
-      <div class="col-lg-12">
-        pie
+   <footer class="bg-dark text-white pt-4 pb-2">
+  <div class="container text-center text-md-start">
+    <div class="row">
+      <!-- Sección 1 -->
+      <div class="col-md-3 mb-4">
+        <h5 class="text-uppercase">Mi Sitio</h5>
+        <p>Descripción breve o lema de la empresa o sitio web.</p>
+      </div>
+
+      <!-- Sección 2 -->
+      <div class="col-md-3 mb-4">
+        <h5 class="text-uppercase">Enlaces</h5>
+        <ul class="list-unstyled">
+          <li><a href="#" class="text-white text-decoration-none">Inicio</a></li>
+          <li><a href="#" class="text-white text-decoration-none">Servicios</a></li>
+          <li><a href="#" class="text-white text-decoration-none">Acerca de</a></li>
+          <li><a href="#" class="text-white text-decoration-none">Contacto</a></li>
+        </ul>
+      </div>
+
+      <!-- Sección 3 -->
+      <div class="col-md-3 mb-4">
+        <h5 class="text-uppercase">Redes sociales</h5>
+        <a href="#" class="text-white me-3"><i class="bi bi-facebook"></i></a>
+        <a href="#" class="text-white me-3"><i class="bi bi-twitter"></i></a>
+        <a href="#" class="text-white me-3"><i class="bi bi-instagram"></i></a>
+      </div>
+
+      <!-- Sección 4 -->
+      <div class="col-md-3 mb-4">
+        <h5 class="text-uppercase">Contacto</h5>
+        <p>Email: contacto@misitio.com</p>
+        <p>Tel: +123 456 7890</p>
       </div>
     </div>
+
+    <div class="text-center pt-3 border-top mt-3">
+      <p class="mb-0">&copy; 2025 Mi Sitio. Todos los derechos reservados.</p>
     </div>
+  </div>
+</footer>
+
+ 
     <!-- Bootstrap JavaScript Libraries -->
     <script
       src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
