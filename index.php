@@ -23,7 +23,7 @@
       <!-- place navbar here -->
     </header>
     <main>Monas chinas
-      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdarkostore.com%2Fproducto%2Fgalaxy-studio-jack-o-yorha-2b-1-4%2F&psig=AOvVaw1hlgV1xTi-7tOE9qzJNJnB&ust=1748831255454000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDuxaGWz40DFQAAAAAdAAAAABAL" alt="2B figura H">
+      <img src="https://darkostore.com/wp-content/uploads/2022/07/Template-preventa.jpg" alt="2B figura H">
     </main>
     <footer>
        <div class="container">
