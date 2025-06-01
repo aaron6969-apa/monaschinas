@@ -24,6 +24,11 @@
     </header>
     <main>Hola mundo</main>
     <footer>
+       <div class="container">
+       <div class="raw">
+       <div class="col-lg-12">
+        pie
+       </div>
       <!-- place footer here -->
     </footer>
     <div class="container">
